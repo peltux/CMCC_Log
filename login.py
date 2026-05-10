@@ -5,8 +5,8 @@ import socket
 from plyer import notification
 
 # ================== 配置区 ==================
-USERNAME = "20251693ccut"          # 你的校园网账号
-PASSWORD = "186132"                # 你的密码
+USERNAME = ""          # 你的校园网账号
+PASSWORD = ""                # 你的密码
 PORTAL_URL = "http://111.26.29.113:7119/portal.wlan?wlanacname=&wlanacip=211.137.223.239&wlanuserip=100.125.93.72&ssid=edu"
 LOGIN_ACTION = "http://111.26.29.113:7119/portalLogin.wlan"
 # ===========================================
